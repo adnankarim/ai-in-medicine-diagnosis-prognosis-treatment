@@ -1,5 +1,6 @@
 # 3D Image Penumonia Classification Lungs CT-Scans using CNN
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17GGGXQRPQ5uDbYsRWnbHFIGk9Fva-csn?authuser=1#scrollTo=KY29d_HsvePr)
 
 ## Data
 
