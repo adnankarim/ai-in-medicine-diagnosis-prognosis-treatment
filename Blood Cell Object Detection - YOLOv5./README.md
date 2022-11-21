@@ -1,4 +1,4 @@
-# 3D Image Penumonia Classification Lungs CT-Scans using CNN
+# Blood Cell Object Detection - YOLOv5
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LHqkLYXAkZXMsXt-KQEBDpaZZiPZk7zk?authuser=1#scrollTo=7mGmQbAO5pQb)
 
@@ -6,7 +6,7 @@
 
 - We use a [public blood cell detection dataset](https://public.roboflow.ai/object-detection/bccd), which is open source and free to use. You can also use this notebook on your own data.
 
-- All the images are in the `nii.gz` format and labels `YOLO v5 PyTorch format`.
+- All the images are in the `.jpeg` format and labels `YOLO v5 PyTorch format`.
 
 
 
