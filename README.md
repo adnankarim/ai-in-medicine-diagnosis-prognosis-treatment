@@ -8,3 +8,5 @@ In this project, we will use artificial intelligence (AI) to:
 * Automate the task of labeling medical datasets using natural language processing
 
 We will use PyTorch and Python, along with various EDA libraries, to complete these tasks.
+
+
